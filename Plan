@@ -1,0 +1,5 @@
+1. First Do the Localisation of the digits using imutils & OPENCV
+
+2. Each localised digits will be predicted using a pre trained model
+
+3. The predicted numbers will be arranged in oder to form the final prediction
