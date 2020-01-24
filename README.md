@@ -16,7 +16,7 @@ The aim of the project is to extract the values from glucose measuring device us
   
   2. Reduce the noise in the Region of Interest (ROI) and create a binary image of the ROI
   
-  3. Identify the proper broder to extraxt the numbers individually
+  3. Identify the proper broder to extract the numbers individually
   
   4. Identify the number using Neural Network (used minist hand written database for training)
   
